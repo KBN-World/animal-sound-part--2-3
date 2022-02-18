@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+    font-family: 'Shizuru', cursive;
+    text-decoration-color: black;
+}
+
+.copy_right_footer{
+    background-color: lightgreen;
+    text-decoration-color: orangered;
+    width: max-content;
+    height: max-content;
+    text-shadow: 0cm;
+    line-height: 0%;
+}
